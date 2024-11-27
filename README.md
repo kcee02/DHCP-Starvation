@@ -7,4 +7,4 @@ The goal of this attack is to exhaust the DHCP server's pool of available IP add
 
 In this report, we will explore the mechanics of DHCP starvation, its potential impact on network security, and various mitigation strategies to prevent or mitigate this attack, and how to perform such attacks....... 
 
-FOR EDUCATIONAL PURPOSES ALONE
+FOR EDUCATIONAL PURPOSES #ONLY
